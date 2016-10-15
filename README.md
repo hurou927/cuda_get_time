@@ -33,7 +33,7 @@ Output
 ======
 
 ```cpp
-std::cout<<cutime;
-cutime.print();
-cutime.interval(2,1);//  2st-time - 1st-time
+std::cout<<cutime;   // print all interval-time
+cutime.print();      // print all interval-time
+cutime.interval(2,1);// 2st-time - 1st-time
 ```
