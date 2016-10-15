@@ -18,7 +18,7 @@ cudatimeStamp cutime();       //  defalut(10) times get-time (millisecond)
 cudatimeStamp cutime(5);      //  5 times get-time (millisecond)
 cudatimeStamp cutime(5,"s");  //  5 times get-time (second)
 ```
-Stamping Time
+Stampe
 ======
 
 ```cpp
@@ -29,7 +29,7 @@ cutime.stamp();// or cutime();
 cutime.stamp();// or cutime();
 ```
 
-Output Time
+Output
 ======
 
 ```cpp
